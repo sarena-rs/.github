@@ -1,6 +1,6 @@
-# Sarena
+# Welcome to Sarena!
 
-Sarena is an open-source dataplane/CNI built on eBPF, written in Rust with Aya. It is in early development.
+Sarena is an open-source dataplane/CNI built on eBPF🐝, written in Rust🦀 with Aya. It is in early development.
 
 ## Projects
 
